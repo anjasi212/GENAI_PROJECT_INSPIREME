@@ -1,7 +1,7 @@
 # GENAI_PROJECT
 
 
-**InspireMe** is a generative AI-powered web application that helps users create inspirational quotes and short stories based on custom prompts. Utilizing the GPT-2 transformer model from HuggingFace and a clean Streamlit interface, the application offers a seamless experience in creative writing and content generation.
+A generative AI-powered web application that helps users create inspirational quotes and short stories based on custom prompts. Utilizing the GPT-2 transformer model from HuggingFace and a clean Streamlit interface, the application offers a seamless experience in creative writing and content generation.
 
 ---
 
