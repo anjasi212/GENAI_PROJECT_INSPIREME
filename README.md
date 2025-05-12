@@ -3,9 +3,8 @@
 
 A generative AI-powered web application that helps users create inspirational quotes and short stories based on custom prompts. Utilizing the GPT-2 transformer model from HuggingFace and a clean Streamlit interface, the application offers a seamless experience in creative writing and content generation.
 
----
 
-## 🎯 Features
+## Features
 
 - 🤖 **GPT-2 Based Generation**: Generates motivational quotes and short story snippets from user prompts.
 - 🧠 **Smart Prompt Handling**: Handles a wide range of input types and lengths.
@@ -14,9 +13,8 @@ A generative AI-powered web application that helps users create inspirational qu
 - 💾 **Save to File**: Export generated content easily.
 - 🔊 **TTS Integration (Optional)**: Future enhancement for listening to generated content.
 
----
 
-## 🧰 Tech Stack
+## Tech Stack Used
 
 - **Language:** Python 3.x  
 - **Libraries:**  
